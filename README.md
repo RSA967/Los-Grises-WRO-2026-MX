@@ -20,3 +20,10 @@ Age:40
 Role: Coach and founder.
 
 "An engineer and professor founded the Los Grises Superiores in 2014, since then with outstanding national and international participations."
+
+
+Name: Rodolfo Iván Sánchez Andaverde
+
+Age: 14 years old
+
+<div align="center"><img width="200" height="200" alt="OpenMV Cam H7 Plus" src="" /></div>
