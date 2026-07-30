@@ -6,3 +6,17 @@ Official repository of Team Los Grises for the **Future Engineers - World Robot 
 </div>
 
 ## TEAM PHOTO
+
+
+TEAM MEMBERS
+---------
+Coach:Eduardo Alvarado Gonzalez
+
+Age:40
+
+<div align="center"><img width="600" height="500" alt="OpenMV Cam H7 Plus" src="" /></div>
+
+
+Role: Coach and founder.
+
+"An engineer and professor founded the Los Grises Superiores in 2014, since then with outstanding national and international participations."
