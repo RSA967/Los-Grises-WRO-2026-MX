@@ -14,7 +14,7 @@ Coach:Eduardo Alvarado Gonzalez
 
 Age:40
 
-<div align="center"><img width="600" height="500" alt="OpenMV Cam H7 Plus" src="" /></div>
+<div align="center"><img width="600" height="500" alt="OpenMV Cam H7 Plus" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/Eduardo%20Alvarado%20Gonz%C3%A1les%20(2).png?raw=true" /></div>
 
 
 Role: Coach and founder.
