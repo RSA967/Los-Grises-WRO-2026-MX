@@ -27,3 +27,9 @@ Name: Rodolfo Iván Sánchez Andaverde
 Age: 14 years old
 
 <div align="center"><img width="200" height="200" alt="OpenMV Cam H7 Plus" src="" /></div>
+
+Role: Programmer
+
+My journey in robotics began when I was very young; I started programming and building robots, and I always wanted to build more—I never got tired of it. I can tell you that I started when I was 9 years old, and when the opportunity arose to compete in the “Future Engineers” robotics competition, I didn’t want to miss out on it.
+
+
