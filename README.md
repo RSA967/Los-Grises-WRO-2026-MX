@@ -37,7 +37,7 @@ Name: Carlos Samuel Cortes Esteban
 
 Age: 14
 
-<div align="center"><img width="200" height="200" alt="OpenMV Cam H7 Plus" src="" /></div>
+<div align="center"><img width="200" height="200" alt="OpenMV Cam H7 Plus" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/carlos%20(1).jpg?raw=true" /></div>
 
 Role: Builder
 
