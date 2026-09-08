@@ -43,6 +43,16 @@ Role: Builder
 
 Ever since I was a kid, robotics has always fascinated me, but it wasn’t until I started high school that I was able to really get into it. I joined the Advanced Curriculum Program (PCA), and that’s where I’ve been learning to code and build things. I also took some courses at Tec, and last summer I took the opportunity to continue learning at the Normal Superior. Little by little, what started as a childhood curiosity has turned into something I’m putting a lot of effort into.
 
+Name:Christopher Pérez Cortés
+
+Age: 14
+
+<div align="center"><img width="200" height="200" alt="OpenMV Cam H7 Plus" src="" /></div>
+
+Role:
+
+Christopher joined the Robotics Club at Escuela Normal Superior "Profr. Moisés Sáenz Garza" earlier this year after completing an intensive robotics course. Currently in his third year of middle school, he has quickly developed skills in electronics, programming (Arduino C++), and 3D modeling (Onshape). WRO 2026 is his first international competition.
+
 
 ## Vehicle Photos
 
