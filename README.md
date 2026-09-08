@@ -44,3 +44,10 @@ Role: Builder
 Ever since I was a kid, robotics has always fascinated me, but it wasn’t until I started high school that I was able to really get into it. I joined the Advanced Curriculum Program (PCA), and that’s where I’ve been learning to code and build things. I also took some courses at Tec, and last summer I took the opportunity to continue learning at the Normal Superior. Little by little, what started as a childhood curiosity has turned into something I’m putting a lot of effort into.
 
 
+## Vehicle Photos
+
+<div align="center">
+
+| Front | Back |
+|:--:|:--:|
+<img width="500" height="500" alt="image" src="
