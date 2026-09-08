@@ -51,3 +51,11 @@ Ever since I was a kid, robotics has always fascinated me, but it wasn’t until
 | Front | Back |
 |:--:|:--:|
 <img width="500" height="500" alt="image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Front%20(3).jpeg?raw=true" /> | <img width="500" height="500" alt="image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Back%20(3).jpeg?raw=true" /> |
+
+| Bottom | Top |
+|:--:|:--:|
+| <img width="500" height="500" alt="Top" src="" /> | <img width="500" height="500" alt="Bottom" src="" /> |
+
+| Left | Right |
+|:--:|:--:|
+| <img width="500" height="500" alt="Left" src="" /> | <img width="500" height="500" alt="Right" src="" /> |
