@@ -47,9 +47,9 @@ Name:Christopher Pérez Cortés
 
 Age: 14
 
-<div align="center"><img width="200" height="200" alt="OpenMV Cam H7 Plus" src="" /></div>
+<div align="center"><img width="200" height="200" alt="OpenMV Cam H7 Plus" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/Christopher.jpeg?raw=true" /></div>
 
-Role:
+Role:Programming & Electronics
 
 Christopher joined the Robotics Club at Escuela Normal Superior "Profr. Moisés Sáenz Garza" earlier this year after completing an intensive robotics course. Currently in his third year of middle school, he has quickly developed skills in electronics, programming (Arduino C++), and 3D modeling (Onshape). WRO 2026 is his first international competition.
 
