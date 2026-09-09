@@ -73,11 +73,11 @@ Christopher joined the Robotics Club at Escuela Normal Superior "Profr. Moisés 
 
 |COMPONENT| DESCRIPTION | IMAGE | PURCHASE LINK|
 |---------|-------------|-------|--------------|
-|IoT FireBeetle ESP32|The FireBeetle ESP32 is a compact board from DFRobot that’s ideal for battery-powered IoT applications.
-Performance: Dual-core at 240 MHz, 16 MB Flash, 520 KB RAM.
-Connectivity: Wi-Fi, Bluetooth/BLE, I2C, SPI, UART, and ADC.
+|IoT FireBeetle ESP32|The FireBeetle ESP32 is a compact board from DFRobot that’s ideal for battery-powered IoT applications
+Performance: Dual-core at 240 MHz, 16 MB Flash, 520 KB RAM
+Connectivity: Wi-Fi, Bluetooth/BLE, I2C, SPI, UART, and ADC
 Battery: Built-in Li-Po charger and power consumption of only 10 µA in Deep Sleep mode.
-Programming: Arduino IDE, MicroPython, and ESP-IDF.| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/other/IoT%20FireBeetle%20ESP32.webp?raw=true" /></div> |[Buy here](https://www.amazon.com.mx/UEYGHEP-FireBeetle-Development-Bluetooth-habilitado/dp/B0GFDXH1XS)|
+Programming: Arduino IDE, MicroPython, and ESP-IDF| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/other/IoT%20FireBeetle%20ESP32.webp?raw=true" /></div> |[Buy here](https://www.amazon.com.mx/UEYGHEP-FireBeetle-Development-Bluetooth-habilitado/dp/B0GFDXH1XS)|
 |Genuine OpenMV CAM H7 Plus / OpenMV4 CAM H7 Plus, 5MP|| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/other/61Pewppj0IL._AC_SX679_.jpg?raw=true" /></div> |[Buy here](https://www.amazon.com.mx/OpenMV-SingTown-Processing-Robotics-Detection/dp/B09WYQR6XH/ref=asc_df_B09WYQR6XH?mcid=d9e1cccb34dd3788899fe5c045006cbd&tag=gledskshopmx-20&linkCode=df0&hvadid=709953053678&hvpos=&hvnetw=g&hvrand=995950744755741935&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9138381&hvtargid=pla-1679372154675&psc=1&hvocijid=995950744755741935-B09WYQR6XH-&hvexpln=0&language=es_MX)|
 |Micro SG90 9G Servomotor|| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/other/Micro%20Servomotor%20Sg90%20Arduino%20Dhvk.webp?raw=true" /></div> |[Buy here](https://www.mercadolibre.com.mx/micro-servomotor-sg90-arduino-dhvk/p/MLM2072764647)|
 |Mini Switch|| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/other/Mini%20interruptor.webp?raw=true" /></div> |[Buy here](https://www.steren.com.mx/switch-miniatura-de-balancin-de-1-polo-1-tiro-2-posiciones.html?srsltid=AfmBOorFlYnUJpOq3Xbp_wxA4U4v6Ny5MNrUfvc4Dk4Rch1Ng-RLhhL7)|
