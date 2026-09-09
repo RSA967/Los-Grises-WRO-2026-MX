@@ -73,7 +73,7 @@ Christopher joined the Robotics Club at Escuela Normal Superior "Profr. Moisés 
 
 |COMPONENT| DESCRIPTION | IMAGE | PURCHASE LINK|
 |---------|-------------|-------|--------------|
-||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here](https://www.amazon.com.mx/UEYGHEP-FireBeetle-Development-Bluetooth-habilitado/dp/B0GFDXH1XS)|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/other/IoT%20FireBeetle%20ESP32.webp?raw=true" /></div> |[Buy here](https://www.amazon.com.mx/UEYGHEP-FireBeetle-Development-Bluetooth-habilitado/dp/B0GFDXH1XS)|
 ||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
 ||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
 ||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
