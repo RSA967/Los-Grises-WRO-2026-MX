@@ -73,5 +73,22 @@ Christopher joined the Robotics Club at Escuela Normal Superior "Profr. Moisés 
 
 |COMPONENT| DESCRIPTION | IMAGE | PURCHASE LINK|
 |---------|-------------|-------|--------------|
-||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here](
-||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here](
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
+||| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="" /></div> |[Buy here]()|
