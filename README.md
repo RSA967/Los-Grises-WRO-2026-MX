@@ -99,4 +99,4 @@ Christopher joined the Robotics Club at Escuela Normal Superior "Profr. Moisés 
 <img width="1000" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/(PCB).jpeg?raw=true" /></div>
 
 <div align="center">
-<img width="1000" height="500" alt="team-image" src="" /></div>
+<img width="1000" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/Layout%20of%20the%20Printed%20Circuit%20Board%20(PCB)%20Components.jpeg?raw=true" /></div>
