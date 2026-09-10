@@ -94,3 +94,9 @@ Christopher joined the Robotics Club at Escuela Normal Superior "Profr. Moisés 
 
 
 ## Robot Circuit Board (PCB)
+
+<div align="center">
+<img width="1000" height="500" alt="team-image" src="" /></div>
+
+<div align="center">
+<img width="1000" height="500" alt="team-image" src="" /></div>
