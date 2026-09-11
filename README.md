@@ -335,7 +335,7 @@ Reaching `DONE` means that the movement sequence ended, which can also happen af
 
 ## Engineering Decisions and Improvements
 
-Our control decisions connect the sensing and movement tasks. A smoother steering change is not always the best choice near a wall, and a newer camera reading can be more useful than processing every queued frame. The following choices explain how we handle these situations. More detail is in our [Engineering Journal](docs/engineering-journal.md).
+Our control decisions connect the sensing and movement tasks. A smoother steering change is not always the best choice near a wall, and a newer camera reading can be more useful than processing every queued frame. The following choices explain how we handle these situations. More detail is in our [Engineering Journal]
 
 ### Giving ultrasonic readings time and keeping I²C responsive
 
