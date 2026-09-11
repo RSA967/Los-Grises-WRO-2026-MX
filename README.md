@@ -120,8 +120,6 @@ We center the servo at **90°** and limit normal steering commands to **50–130
 
 Our [electrical schematic], labelled **WRO 26 INDIA**, shows the FireBeetle ESP32 **DFR0478**, the Nano, camera, IMU and actuator connections. The TB6612FNG uses channel A for the drive motor. The ESP32 sends its speed command through PWM and selects direction through two digital signals.
 
-<a href="wiring/schematic.jpg"><img src="wiring/schematic.jpg" width="850" alt="WRO 26 INDIA electrical schematic showing power, controllers, sensors and actuator connections" /></a>
-
 The power circuit has an 18650 battery input, a switched **VM** branch for the motor, and Mini 560 buck-converter branches labelled **5+** and **3.3**. Separate 7805 regulator branches supply the servo and NeoPixel lighting. The drawing also shows common ground connections, a logic-level converter between 5 V and 3.3 V signal domains, and a **100 nF capacitor** across the motor terminals.
 
 The [connection reference](docs/electronics.md) gives the pin assignments and power-net details. Our [component inventory](docs/components-original.docx) includes tools and duplicate parts as well as robot components, so its quantities describe our inventory rather than the number fitted to one robot.
