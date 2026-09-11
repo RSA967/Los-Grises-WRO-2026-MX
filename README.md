@@ -156,12 +156,6 @@ The camera connections are used by the Obstacle program. Open follows the corrid
 
 We load one challenge sketch on the ESP32 at a time. The two sketches stay in separate folders; they are not combined into a single program.
 
-<div align="center">
-<img width="1000" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/(PCB).jpeg?raw=true" /></div>
-
-<div align="center">
-<img width="1000" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/Layout%20of%20the%20Printed%20Circuit%20Board%20(PCB)%20Components.jpeg?raw=true" /></div>
-
 ## Open Challenge Strategy
 
 Our Open sequence is:
@@ -381,6 +375,13 @@ Use these files to inspect the mechanical parts, follow the connections and unde
 | [Component inventory](https://github.com/RSA967/Los-Grises-WRO-2026-MX/raw/refs/heads/main/models/Tabla_de_componentes_robotica.docx) | Identify part names and view component photographs. |
 
 The PCB files here are images for reading the layout and connections. Manufacturing a matching board requires the editable design and fabrication outputs. The 3MF contains part meshes rather than a parametric CAD history.
+
+<div align="center">
+<img width="1000" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/(PCB).jpeg?raw=true" /></div>
+
+<div align="center">
+<img width="1000" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/Layout%20of%20the%20Printed%20Circuit%20Board%20(PCB)%20Components.jpeg?raw=true" /></div>
+
 
 <!-- PENDING: add the PCB fabrication outputs and assembly instructions needed to reproduce the final mechanical and electronic build. -->
 
