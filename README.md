@@ -54,22 +54,6 @@ Role:Programming & Electronics
 Christopher joined the Robotics Club at Escuela Normal Superior "Profr. Moisés Sáenz Garza" earlier this year after completing an intensive robotics course. Currently in his third year of middle school, he has quickly developed skills in electronics, programming (Arduino C++), and 3D modeling (Onshape). WRO 2026 is his first international competition.
 
 
-## Vehicle Photos
-
-<div align="center">
-
-| Front | Back |
-|:--:|:--:|
-<img width="500" height="500" alt="image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Front%20(3).jpeg?raw=true" /> | <img width="500" height="500" alt="image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Back%20(3).jpeg?raw=true" /> |
-
-| Bottom | Top |
-|:--:|:--:|
-| <img width="500" height="500" alt="Top" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Bottom%20(2).jpeg?raw=true" /> | <img width="500" height="500" alt="Bottom" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Top%20(3).jpeg?raw=true" /> |
-
-| Left | Right |
-|:--:|:--:|
-| <img width="500" height="500" alt="Left" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Left%20(3).jpeg?raw=true" /> | <img width="500" height="500" alt="Right" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Right%20(3).jpeg?raw=true" /> |
-
 
 |COMPONENT| DESCRIPTION | IMAGE | PURCHASE LINK|
 |---------|-------------|-------|--------------|
