@@ -184,7 +184,7 @@ The camera connections are used by the Obstacle program. Open follows the corrid
 | ESP32, Open Challenge | [ESP32_Open_Giro_90.ino](https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/src/ESP32_Open_Giro_90.ino) |
 | ESP32, Obstacle Challenge | [ESP32_Obstaculos_V2.ino](https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/src/ESP32_Obstaculos_V2.ino) |
 | Arduino Nano, sensors and lights | [Nano_Sensores_I2C__1_.ino](https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/src/Nano_Sensores_I2C__1_.ino) |
-| OpenMV, vision | [color_corner.py](code/openmv/color_corner.py) |
+| OpenMV, vision | [color_corner.py](https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/src/color_corner.py) |
 
 We load one challenge sketch on the ESP32 at a time. The two sketches stay in separate folders; they are not combined into a single program.
 
