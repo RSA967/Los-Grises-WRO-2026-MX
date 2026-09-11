@@ -118,7 +118,7 @@ We center the servo at **90°** and limit normal steering commands to **50–130
 
 ## Electronics and Power System
 
-Our [electrical schematic](wiring/schematic.jpg), labelled **WRO 26 INDIA**, shows the FireBeetle ESP32 **DFR0478**, the Nano, camera, IMU and actuator connections. The TB6612FNG uses channel A for the drive motor. The ESP32 sends its speed command through PWM and selects direction through two digital signals.
+Our [electrical schematic], labelled **WRO 26 INDIA**, shows the FireBeetle ESP32 **DFR0478**, the Nano, camera, IMU and actuator connections. The TB6612FNG uses channel A for the drive motor. The ESP32 sends its speed command through PWM and selects direction through two digital signals.
 
 <a href="wiring/schematic.jpg"><img src="wiring/schematic.jpg" width="850" alt="WRO 26 INDIA electrical schematic showing power, controllers, sensors and actuator connections" /></a>
 
