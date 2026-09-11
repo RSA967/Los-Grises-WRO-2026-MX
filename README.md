@@ -402,7 +402,7 @@ Use these files to inspect the mechanical parts, follow the connections and unde
 |---|---|
 | [Part Studio 1.3mf](cad/Part%20Studio%201.3mf) | View the 24 mesh objects for the body and supports. Check that the viewer respects the meter units. |
 | [Electrical schematic](https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/Layout%20of%20the%20Printed%20Circuit%20Board%20(PCB)%20Components.jpeg?raw=true) | Follow controller, sensor, actuator and power connections. |
-| [PCB layout](pcb/layout.jpg) | View tracks, connectors and component footprints. |
+| [PCB layout](https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/(PCB).jpeg?raw=true) | View tracks, connectors and component footprints. |
 | [Fabricated PCB photo](https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/Layout%20of%20the%20Printed%20Circuit%20Board%20(PCB)%20Components.jpeg?raw=true) | See the unpopulated board before components are fitted. |
 | [Component inventory](https://github.com/RSA967/Los-Grises-WRO-2026-MX/raw/refs/heads/main/models/Tabla_de_componentes_robotica.docx) | Identify part names and view component photographs. |
 
@@ -439,7 +439,7 @@ docs/
 
 ### Hardware and connections
 
-Start with the [3D model](cad/Part%20Studio%201.3mf), [schematic](wiring/schematic.jpg), [component inventory](docs/components-original.docx) and [pin reference](docs/electronics.md). The model shows part geometry; the pin reference covers the five sensor pairs, motor driver, servo, encoder, I²C and camera UART. The inventory also contains duplicate parts and workshop tools.
+Start with the [3D model], [schematic], [component inventory] and [pin reference]. The model shows part geometry; the pin reference covers the five sensor pairs, motor driver, servo, encoder, I²C and camera UART. The inventory also contains duplicate parts and workshop tools.
 
 ### Programs and dependencies
 
