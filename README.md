@@ -436,15 +436,6 @@ The dashboards are enabled in the current sketches for testing. For competition 
 <!-- PENDING: record the tested board definitions, library/OpenMV firmware versions, exact upload and persistent startup steps, and confirm the final competition configuration with wireless disabled. -->
 <!-- PENDING: confirm the submitted repository URL, required historical commits, event deadline and final version notes before submission. -->
 
-## Meet the Team
-
-| Photo | Name | Role / Contribution |
-|---|---|---|
-| <img width="100" alt="Rodolfo" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/Rodolfo%20(1).jpg?raw=true" /> | Rodolfo Iván Sánchez Andaverde | Programmer |
-| <img width="100" alt="Carlos Samuel" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/carlos%20(1).jpg?raw=true" /> | Carlos Samuel Cortes Esteban | Builder |
-| <img width="100" alt="Christopher" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/Christopher.jpeg?raw=true" /> | Christopher Pérez Cortés | Programming & Electronics |
-| <img width="100" alt="Eduardo" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/Eduardo%20Alvarado%20Gonz%C3%A1les%20(2).png?raw=true" /> | Eduardo Alvarado Gonzalez | Coach and founder |
-
 |COMPONENT| DESCRIPTION | IMAGE | PURCHASE LINK|
 |---------|-------------|-------|--------------|
 |IoT FireBeetle ESP32|FireBeetle ESP32: IoT board with Wi-Fi, Bluetooth, a lithium battery charging chip, and ultra-low power consumption (10 µA in standby mode).| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/other/IoT%20FireBeetle%20ESP32.webp?raw=true" /></div> |[Buy here](https://www.amazon.com.mx/UEYGHEP-FireBeetle-Development-Bluetooth-habilitado/dp/B0GFDXH1XS)|
@@ -465,3 +456,13 @@ The dashboards are enabled in the current sketches for testing. For competition 
 |GM25-370 6V 100 RPM Motor|A compact DC gear motor featuring a 25 mm diameter metal gearbox that produces high torque at low speed (100 RPM at 6V), commonly used in small mobile robots and drive mechanisms requiring precise motion.| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/other/Motor%20GM25-370%206V%20100RPM.jpg?raw=true" /></div> |[Buy here](https://www.amazon.com.mx/Motorreductor-GM-25-370-proyectos-mecatr%C3%B3nica/dp/B0FFPXGHCZ/ref=asc_df_B0FFPXGHCZ?mcid=03f933822e8434c5bfc36e6558496c71&tag=gledskshopmx-20&linkCode=df0&hvadid=709952720852&hvpos=&hvnetw=g&hvrand=7665342604280907245&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9138381&hvtargid=pla-2439642179500&hvocijid=7665342604280907245-B0FFPXGHCZ-&hvexpln=0&language=es_MX&th=1)|
 |8-LED LED strips (8-LED NEOPIXEL WS2812 RGB Strip)|A flexible or rigid strip featuring eight individually addressable RGB LEDs, allowing full-color customization over a single digital data pin using integrated WS2812 drivers.| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/other/Tiras%20led%20de%208%20leds%20(TIRA%208%20LED%C2%B4S%20NEOPIXEL%20WS2812%20RGB).jpg?raw=true" /></div> |[Buy here](https://pigra.com.mx/optoelectronica/1260-tira-8-leds-neopixel-ws2812-rgb.html)|
 |Logic Converters|A bidirectional module designed to safely shift voltage signals between different logic levels (typically 5V and 3.3V) on digital lines like I2C, SPI, or UART, preventing high-voltage microcontrollers from damaging sensitive lower-voltage components.| <div align="center"><img width="500" height="250" alt="OpenMV Cam H7 Plus" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/other/Convertidores%20Logicos.jpg?raw=true" /></div> |[Buy here](https://naylampmechatronics.com/conversores-ttl/67-conversor-de-nivel-logico-4ch-5v3v.html)|
+
+
+## Meet the Team
+
+| Photo | Name | Role / Contribution |
+|---|---|---|
+| <img width="100" alt="Rodolfo" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/Rodolfo%20(1).jpg?raw=true" /> | Rodolfo Iván Sánchez Andaverde | Programmer |
+| <img width="100" alt="Carlos Samuel" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/carlos%20(1).jpg?raw=true" /> | Carlos Samuel Cortes Esteban | Builder |
+| <img width="100" alt="Christopher" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/Christopher.jpeg?raw=true" /> | Christopher Pérez Cortés | Programming & Electronics |
+| <img width="100" alt="Eduardo" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/Eduardo%20Alvarado%20Gonz%C3%A1les%20(2).png?raw=true" /> | Eduardo Alvarado Gonzalez | Coach and founder |
