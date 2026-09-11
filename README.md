@@ -404,15 +404,7 @@ Use these files to inspect the mechanical parts, follow the connections and unde
 | [Electrical schematic](wiring/schematic.jpg) | Follow controller, sensor, actuator and power connections. |
 | [PCB layout](pcb/layout.jpg) | View tracks, connectors and component footprints. |
 | [Fabricated PCB photo](images/pcb-fabricated.jpeg) | See the unpopulated board before components are fitted. |
-| [Component inventory](docs/components-original.docx) | Identify part names and view component photographs. |
-
-<table>
-<tr><th>PCB layout</th><th>Fabricated board</th></tr>
-<tr>
-<td><a href="pcb/layout.jpg"><img src="pcb/layout.jpg" width="350" alt="PCB routing and footprint layout" /></a></td>
-<td><a href="images/pcb-fabricated.jpeg"><img src="images/pcb-fabricated.jpeg" width="350" alt="Unpopulated fabricated PCB" /></a></td>
-</tr>
-</table>
+| [Component inventory](https://github.com/RSA967/Los-Grises-WRO-2026-MX/raw/refs/heads/main/models/Tabla_de_componentes_robotica.docx) | Identify part names and view component photographs. |
 
 The PCB files here are images for reading the layout and connections. Manufacturing a matching board requires the editable design and fabrication outputs. The 3MF contains part meshes rather than a parametric CAD history.
 
