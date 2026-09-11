@@ -144,7 +144,7 @@ The Nano reads **S3 → S1 → S5 → S2 → S4**. We check the front first, the
 
 The Nano sends distances in millimeters over I²C at address **0x08**. The ESP32 requests ten bytes: two for each sensor, in S1-to-S5 order. It requests an update every 20 ms, using the latest reading from each sensor; the sensors are read sequentially, not all at once.
 
-We limit the range to **2,000 mm**. A missing echo is also sent as 2,000 mm, so that value can mean either a clear path beyond the range or no echo. The [Nano program](code/Nano_Sensores_I2C__1_/Nano_Sensores_I2C__1_.ino) contains the scan and message format.
+We limit the range to **2,000 mm**. A missing echo is also sent as 2,000 mm, so that value can mean either a clear path beyond the range or no echo. The [Nano program] contains the scan and message format.
 
 ### BNO085 and encoder
 
