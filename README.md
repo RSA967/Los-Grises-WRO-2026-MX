@@ -110,7 +110,7 @@ Throughout this guide, motor percentages mean **PWM commands**, and servo angles
 
 We control propulsion and steering separately. A DC motor provides drive through the TB6612FNG motor driver, while a servo moves the steering linkage. This lets us reverse the motor without changing how we command the steering. Our component list names a **GM25-370 6V 100RPM motor** and an **SG90 servo**; the voltage and speed in the motor name are part ratings.
 
-The [3D model](cad/Part%20Studio%201.3mf) contains the upper and lower bodies, a rear support, and left, right and central parts. It includes 24 mesh objects and uses **meters** as its unit. These shapes help show how the body and supports fit into the design.
+The [3D model](https://github.com/RSA967/Los-Grises-WRO-2026-MX/raw/refs/heads/main/models/3D%20design%20of%20the%20robot%E2%80%94open%20in%20Onshape.3mf) contains the upper and lower bodies, a rear support, and left, right and central parts. It includes 24 mesh objects and uses **meters** as its unit. These shapes help show how the body and supports fit into the design.
 
 We center the servo at **90°** and limit normal steering commands to **50–130°**. The challenge programs use different corrections within that range for following walls, turning corners and reversing.
 
