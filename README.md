@@ -122,7 +122,7 @@ Our [electrical schematic], labelled **WRO 26 INDIA**, shows the FireBeetle ESP3
 
 The power circuit has an 18650 battery input, a switched **VM** branch for the motor, and Mini 560 buck-converter branches labelled **5+** and **3.3**. Separate 7805 regulator branches supply the servo and NeoPixel lighting. The drawing also shows common ground connections, a logic-level converter between 5 V and 3.3 V signal domains, and a **100 nF capacitor** across the motor terminals.
 
-The [connection reference](docs/electronics.md) gives the pin assignments and power-net details. Our [component inventory](docs/components-original.docx) includes tools and duplicate parts as well as robot components, so its quantities describe our inventory rather than the number fitted to one robot.
+The [connection reference] gives the pin assignments and power-net details. Our [component inventory] includes tools and duplicate parts as well as robot components, so its quantities describe our inventory rather than the number fitted to one robot.
 
 <!-- PENDING: confirm installed quantities and the BNO080/BNO085 module identity; reconcile the battery arrangement, final I2C/power wiring and PCB revision before completing the assembly instructions. -->
 
