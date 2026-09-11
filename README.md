@@ -66,6 +66,11 @@ Throughout this guide, motor percentages mean **PWM commands**, and servo angles
 
 ### Open Challenge
 
+<div align="center">
+
+### 🧩 Driving Demonstration
+[![Watch the video](https://img.shields.io/badge/▶️%20Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)]()
+</div>
 <!-- PENDING: add a public or unlisted YouTube link showing at least 30 seconds of autonomous Open Challenge driving. -->
 
 ### Obstacle Challenge
