@@ -93,15 +93,6 @@ The [connection reference] gives the pin assignments and power-net details. Our 
 
 <!-- PENDING: confirm installed quantities and the BNO080/BNO085 module identity; reconcile the battery arrangement, final I2C/power wiring and PCB revision before completing the assembly instructions. -->
 
-## Robot Circuit Board (PCB)
-
-<div align="center">
-<img width="1000" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/(PCB).jpeg?raw=true" /></div>
-
-<div align="center">
-<img width="1000" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/Layout%20of%20the%20Printed%20Circuit%20Board%20(PCB)%20Components.jpeg?raw=true" /></div>
-
-
 
 ## Sensor Architecture
 
@@ -164,6 +155,12 @@ The camera connections are used by the Obstacle program. Open follows the corrid
 | OpenMV, vision | [color_corner.py](https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/src/color_corner.py) |
 
 We load one challenge sketch on the ESP32 at a time. The two sketches stay in separate folders; they are not combined into a single program.
+
+<div align="center">
+<img width="1000" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/(PCB).jpeg?raw=true" /></div>
+
+<div align="center">
+<img width="1000" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/Layout%20of%20the%20Printed%20Circuit%20Board%20(PCB)%20Components.jpeg?raw=true" /></div>
 
 ## Open Challenge Strategy
 
