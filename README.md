@@ -6,15 +6,6 @@ Official repository of Team Los Grises for the **Future Engineers - World Robot 
 </div>
 
 
-## Robot Circuit Board (PCB)
-
-<div align="center">
-<img width="1000" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/(PCB).jpeg?raw=true" /></div>
-
-<div align="center">
-<img width="1000" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/Layout%20of%20the%20Printed%20Circuit%20Board%20(PCB)%20Components.jpeg?raw=true" /></div>
-
-
 ## Robot Overview
 
 Our robot follows a track using a steering servo and a DC drive motor. We use five ultrasonic sensors to measure wall distances, a BNO085 to track rotation, and an encoder to detect movement. For the Obstacle Challenge, an OpenMV camera also finds colored pillars and parking walls.
@@ -101,6 +92,16 @@ The power circuit has an 18650 battery input, a switched **VM** branch for the m
 The [connection reference] gives the pin assignments and power-net details. Our [component inventory] includes tools and duplicate parts as well as robot components, so its quantities describe our inventory rather than the number fitted to one robot.
 
 <!-- PENDING: confirm installed quantities and the BNO080/BNO085 module identity; reconcile the battery arrangement, final I2C/power wiring and PCB revision before completing the assembly instructions. -->
+
+## Robot Circuit Board (PCB)
+
+<div align="center">
+<img width="1000" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/(PCB).jpeg?raw=true" /></div>
+
+<div align="center">
+<img width="1000" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/models/Layout%20of%20the%20Printed%20Circuit%20Board%20(PCB)%20Components.jpeg?raw=true" /></div>
+
+
 
 ## Sensor Architecture
 
