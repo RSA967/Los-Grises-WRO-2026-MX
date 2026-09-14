@@ -481,7 +481,7 @@ The dashboards are enabled in the current sketches for testing. For competition 
 ## Team Photos
 
 <div align="center">
-<img width="700" height="500" alt="team-image" src="" /></div>
+<img width="700" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/Team%20photo.jpeg?raw=true" /></div>
 
 
 <div align="center">
