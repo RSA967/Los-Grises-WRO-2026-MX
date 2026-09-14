@@ -485,4 +485,4 @@ The dashboards are enabled in the current sketches for testing. For competition 
 
 
 <div align="center">
-<img width="700" height="500" alt="team-image" src="" /></div>
+<img width="700" height="500" alt="team-image" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/Funny%20photo%20(3).jpeg?raw=true" /></div>
