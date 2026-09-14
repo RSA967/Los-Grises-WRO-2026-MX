@@ -478,6 +478,8 @@ The dashboards are enabled in the current sketches for testing. For competition 
 | <img width="100" alt="Eduardo" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/Eduardo%20Alvarado%20Gonz%C3%A1les%20(2).png?raw=true" /> | Eduardo Alvarado Gonzalez | Coach and founder |
 
 
+## Team Photos
+
 <div align="center">
 <img width="700" height="500" alt="team-image" src="" /></div>
 
