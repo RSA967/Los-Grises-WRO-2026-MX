@@ -476,3 +476,11 @@ The dashboards are enabled in the current sketches for testing. For competition 
 | <img width="100" alt="Carlos Samuel" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/carlos%20(1).jpg?raw=true" /> | Carlos Samuel Cortes Esteban | Builder |
 | <img width="100" alt="Christopher" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/Christopher.jpeg?raw=true" /> | Christopher Pérez Cortés | Programming & Electronics |
 | <img width="100" alt="Eduardo" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/t-photos/Eduardo%20Alvarado%20Gonz%C3%A1les%20(2).png?raw=true" /> | Eduardo Alvarado Gonzalez | Coach and founder |
+
+
+<div align="center">
+<img width="700" height="500" alt="team-image" src="" /></div>
+
+
+<div align="center">
+<img width="700" height="500" alt="team-image" src="" /></div>
