@@ -78,7 +78,7 @@ Throughout this guide, motor percentages mean **PWM commands**, and servo angles
 <div align="center">
 
 ### 🧩 Driving Demonstration
-[![Watch the video](https://img.shields.io/badge/▶️%20Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)]()
+[![Watch the video](https://img.shields.io/badge/▶️%20Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=RbcLgdJnRX0)
 </div>
 
 <!-- PENDING: add a public or unlisted YouTube link showing at least 30 seconds of autonomous Obstacle Challenge driving. -->
